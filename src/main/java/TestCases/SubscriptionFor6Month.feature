@@ -1,8 +1,8 @@
 @notready
 Feature: Subscription Form
   As a user wants to subscribe for demo.
-  User is able to buy subscriptions for 1month/6month or 1year.
-  Also user is able to start 7days trial
+  User is able to buy subscriptions for 1month/6month/1year or start seven days free trial.
+  So that when user finish all steps it should be moved to the payment site.
 
   Background:
     Given User logs in to formsmarts

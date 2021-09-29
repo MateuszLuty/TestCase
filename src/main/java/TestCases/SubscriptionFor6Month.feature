@@ -1,5 +1,5 @@
 @notready
-Feature: Subscription
+Feature: Subscription Form
   As a user wants to subscribe for demo.
   User is able to buy subscriptions for 1month/6month or 1year.
   Also user is able to start 7days trial
@@ -52,6 +52,7 @@ Feature: Subscription
       | Dorian     | Wysocki    | DWysocki@wp.pl    | England | 1 month | Paypal       |
       | Rafał      | Woźniak    | RWozniak@wp.pl    | England | 3 month | Paypal       |
       | Janusz     | Piotrowski | JPiotrowski@wp.pl | England | 1 year  | Paypal       |
+
 
 
 

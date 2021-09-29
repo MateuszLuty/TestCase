@@ -55,4 +55,5 @@ Feature: Fields Validations
     Then User should receive validation error <error message>
     Examples:
       | fnumber | lnumber | enumber | country              | error message             |
+      | empty   | empty   | empty   | Select your country: | Validation message occurs
       | 151     | 151     | 64      | Select your country: | Validation message occurs |
